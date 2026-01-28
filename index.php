@@ -67,7 +67,7 @@
 
 <div class="card">
     <h1>Junior Software Engineer</h1>
-    <p><strong>Name:</strong> [Jayvy P. Magdaraog]</p>
+    <p><strong>Name:</strong> [Jayvy Magdaraog]</p>
     <p class="bio">"Ready to learn PHP and MySQL this semester!"</p>
 
     <h3>Current Tech Stack:</h3>
